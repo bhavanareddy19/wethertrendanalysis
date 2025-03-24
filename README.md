@@ -3,8 +3,6 @@
 ## Overview
 This project analyzes global weather data to forecast temperature and uncover insights about climate trends. It uses a mix of classical (ARIMA) and modern (Prophet) forecasting models, combined with unique analyses of environmental impact and spatial patterns.
 
-## PM Accelerator Mission
-PM Accelerator makes industry-leading tools and education available to all, empowering current and future product managers with access to expertise and advanced AI product management skills.
 
 ## Data Understanding & Cleaning
 - **Dataset:** Loaded from `GlobalWeatherRepository.csv` with 60,218 records and 41 columns.
